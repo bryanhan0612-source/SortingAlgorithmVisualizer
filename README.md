@@ -16,6 +16,7 @@ How to Run:
 
 
 Controls: 
+
 R - Reset the list with new random values
 
 SPACE - Start sorting
