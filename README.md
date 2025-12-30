@@ -17,13 +17,21 @@ How to Run:
 
 Controls: 
 R - Reset the list with new random values
+
 SPACE - Start sorting
+
 A - Set sorting to ascending order
+
 D - Set sorting to descending order
+
 B - Select Bubble Sort
+
 I - Select Insertion Sort
+
 S - Select Selection Sort
+
 UP ARROW - Increase sorting speed
+
 DOWN ARROW - Decrease sorting speed 
 
 Created by Bryan Han
