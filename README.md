@@ -7,12 +7,14 @@ Features:
 - Controls to start, reset, speed and order
 - Color-coded bars for tracking comaprisons and swaps
 
+
 How to Run:
 1. Clone the repository or download .py file
 2. Install dependencies
 - pip install pygame
 3. Run the program
 - python sorting_visualizer.py
+
 
 
 Controls: 
