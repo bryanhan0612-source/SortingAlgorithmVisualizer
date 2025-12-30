@@ -35,7 +35,7 @@ Controls:
 
 **UP ARROW** - Increase sorting speed
 
-**DOWN ARROW ** - Decrease sorting speed 
+**DOWN ARROW** - Decrease sorting speed 
 
 
 
